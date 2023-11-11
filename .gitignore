@@ -1,0 +1,7 @@
+dpll
+*.sh
+*.cnf
+*.sol
+*.out
+.vscode
+*.py
